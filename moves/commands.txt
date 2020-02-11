@@ -1,0 +1,7 @@
+Commands:
+
+jab1 - Wolf Jab 1
+jab2 - Wolf Jab 2
+jab3 - Wolf Jab 3
+ftilt - Wolf Forward Tilt
+utilt - Wolf Up Tilt
